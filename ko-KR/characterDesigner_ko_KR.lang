@@ -1,42 +1,80 @@
-language.code=ko-KR
+﻿language.code=ko-KR
 language=한국어
 
-characterDesigner.accept=Accept
-characterDesigner.accessories=Accessories
-characterDesigner.cancel=Cancel
-characterDesigner.close=Close
-characterDesigner.eyes=Eyes
-characterDesigner.gender=Gender
-characterDesigner.hair=Hair
-characterDesigner.hat=Hat
-characterDesigner.info=Make yourself pretty and stuff
-characterDesigner.name=Name
-characterDesigner.next=Next
-characterDesigner.none=None
-characterDesigner.personality=Animations
+//[Reference] 'Accept'
+characterDesigner.accept=적용
+//[Reference] 'Accessories'
+characterDesigner.accessories=악세서리
+//[Reference] 'Cancel'
+characterDesigner.cancel=취소
+//[Reference] 'Close'
+characterDesigner.close=닫기
+//[Reference] 'Eyes'
+characterDesigner.eyes=눈
+//[Reference] 'Gender'
+characterDesigner.gender=성별
+//[Reference] 'Hair'
+characterDesigner.hair=머리
+//[Reference] 'Hat'
+characterDesigner.hat=모자
+//[Reference] 'Make yourself pretty and stuff'
+characterDesigner.info=멋진 사람이 되어보아요!
+//[Reference] 'Name'
+characterDesigner.name=이름
+//[Reference] 'Next'
+characterDesigner.next=다음
+//[Reference] 'None'
+characterDesigner.none=없음
+//[Reference] 'Animations'
+characterDesigner.personality=개성
+//[Reference] 'Presets'
 characterDesigner.presets=Presets
-characterDesigner.random=Random
-characterDesigner.shirt=Shirt
-characterDesigner.shoes=Shoes
-characterDesigner.skinColour=Skin
-characterDesigner.species=Species
-characterDesigner.start=Start
-characterDesigner.subcategory.dress=Dress
-characterDesigner.subcategory.glasses=Glasses
-characterDesigner.subcategory.hat=Hat
+//[Reference] 'Random'
+characterDesigner.random=랜덤
+//[Reference] 'Shirt'
+characterDesigner.shirt=상의
+//[Reference] 'Shoes'
+characterDesigner.shoes=신발
+//[Reference] 'Skin'
+characterDesigner.skinColour=피부 색깔
+//[Reference] 'Species'
+characterDesigner.species=종족
+//[Reference] 'Start'
+characterDesigner.start=시작
+//[Reference] 'Dress'
+characterDesigner.subcategory.dress=드레스
+//[Reference] 'Glasses'
+characterDesigner.subcategory.glasses=안경
+//[Reference] 'Hat'
+characterDesigner.subcategory.hat=모자
+//[Reference] 'Hi-Tops'
 characterDesigner.subcategory.hitops=Hi-Tops
-characterDesigner.subcategory.hoodie=Hoodie
-characterDesigner.subcategory.jeans=Jeans
+//[Reference] 'Hoodie'
+characterDesigner.subcategory.hoodie=후드
+//[Reference] 'Jeans'
+characterDesigner.subcategory.jeans=청바지
+//[Reference] 'Long'
 characterDesigner.subcategory.long=Long
+//[Reference] 'Longsleeve'
 characterDesigner.subcategory.longsleeve=Longsleeve
+//[Reference] 'Medium'
 characterDesigner.subcategory.medium=Medium
+//[Reference] 'Sandals'
 characterDesigner.subcategory.sandals=Sandals
+//[Reference] 'Short'
 characterDesigner.subcategory.short=Short
+//[Reference] 'Shorts'
 characterDesigner.subcategory.shorts=Shorts
+//[Reference] 'Straptop'
 characterDesigner.subcategory.straptop=Straptop
+//[Reference] 'Trainers'
 characterDesigner.subcategory.trainers=Trainers
-characterDesigner.subcategory.tshirt=T-Shirt
+//[Reference] 'T-Shirt'
+characterDesigner.subcategory.tshirt=티셔츠
 
-characterDesigner.subcategory.vest=Vest
-characterDesigner.title=Character Creation
+//[Reference] 'Vest'
+characterDesigner.subcategory.vest=조끼
+//[Reference] 'Character Creation'
+characterDesigner.title=캐릭터 만들기
+//[Reference] 'Bottoms'
 characterDesigner.trousers=Bottoms

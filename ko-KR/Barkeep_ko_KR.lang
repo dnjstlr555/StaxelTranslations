@@ -1,68 +1,434 @@
-language.code=ko-KR
+﻿language.code=ko-KR
 language=한국어
-staxel.village.dialogue.Barkeep.line:10000100=Oh, don't think I've seen you around here before!
-staxel.village.dialogue.Barkeep.line:10000200=New in town eh?
+//[Reference] 'Oh, don't think I've seen you around here before!'
+staxel.village.dialogue.Barkeep.line:10000100=어라, 못보던 얼굴이구만!
+//[Reference] 'New in town eh?'
+staxel.village.dialogue.Barkeep.line:10000200=새로 왔는가?
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] '{0-playername}!'
 staxel.village.dialogue.Barkeep.line:10000210=^c:1486b0;{0-playername}^c:pop;!
-staxel.village.dialogue.Barkeep.line:10000211=Good to see you ^c:1486b0;{0-playername}^c:pop;.
-staxel.village.dialogue.Barkeep.line:10000220=What can I do for you today?
-staxel.village.dialogue.Barkeep.line:10000250=Let's chat!
-staxel.village.dialogue.Barkeep.line:10000255=Any rumours?
-staxel.village.dialogue.Barkeep.line:10000260=I'm thirsty.
-staxel.village.dialogue.Barkeep.line:10000265=Nothing really.
-staxel.village.dialogue.Barkeep.line:10000300=I'm sure you'll fit right in.
-staxel.village.dialogue.Barkeep.line:10000400=Here, this is on the house!
-staxel.village.dialogue.Barkeep.line:10000500=Think of it as our welcome to the town.
-staxel.village.dialogue.Barkeep.line:10000600=I hope to see you around here every now and again.
-staxel.village.dialogue.Barkeep.line:10000610=By the way... and perhaps this might seem like an odd question but...
-staxel.village.dialogue.Barkeep.line:10000620=Is there a particular type of animal you like?
-staxel.village.dialogue.Barkeep.line:10000630=Cats are super cute!
-staxel.village.dialogue.Barkeep.line:10000640=Dogs are the coolest!
-staxel.village.dialogue.Barkeep.line:10000650=Oh! How lucky for you!
-staxel.village.dialogue.Barkeep.line:10000660=A merchant came by the other day whose aunt's friend's sister's son had a litter!
-staxel.village.dialogue.Barkeep.line:10000670=If you come back once you're done with ^c:1486b0;{0-tut_name}^c:pop;, I might just have one for you!
-staxel.village.dialogue.Barkeep.line:10000680=Good luck!
-staxel.village.dialogue.Barkeep.line:10002600=Hope to see you around!
-staxel.village.dialogue.Barkeep.line:10002700=Hmm... doesn't look like there's much going on right now.
-staxel.village.dialogue.Barkeep.line:10002800=I haven't heard any rumours today.
-staxel.village.dialogue.Barkeep.line:10002900=Supposedly ^c:1486b0;{0-quest_giver_0}^c:pop; is having a little trouble.
-staxel.village.dialogue.Barkeep.line:10003000=Seems things aren't perfect for ^c:1486b0;{0-quest_giver_1}^c:pop; either.
-staxel.village.dialogue.Barkeep.line:10003100=^c:1486b0;{0-quest_giver_2}^c:pop; might appreciate some help too.
-staxel.village.dialogue.Barkeep.line:10003200=What will you have?
-staxel.village.dialogue.Barkeep.line:10003300=A Mug o' Sap! ({0-currency}{1-sap})
-staxel.village.dialogue.Barkeep.line:10003600=Never mind.
-staxel.village.dialogue.Barkeep.line:10003700=One ^c:d03e37;Mug o' Sap^c:pop; coming right up!
-staxel.village.dialogue.Barkeep.line:10003800=Ah well, another time maybe?
-staxel.village.dialogue.Barkeep.line:10003900=Hmm... doesn't look like you can afford that.
-staxel.village.dialogue.Barkeep.line:10004000=Come back when you have some cash!
-staxel.village.dialogue.Barkeep.line:10005000=Good day {0-playername}!
-staxel.village.dialogue.Barkeep.line:10005100=Is that a note for me?
-staxel.village.dialogue.Barkeep.line:10005200=Hmm... so ^c:1486b0;{0-tut_name}^c:pop; sent you to fetch her some more sap eh?
-staxel.village.dialogue.Barkeep.line:10005300=She drinks far too much of the stuff...
-staxel.village.dialogue.Barkeep.line:10005400=Hmm...
-staxel.village.dialogue.Barkeep.line:10005500=Tell you what, run a little errand for me and I'll see what I can do.
-staxel.village.dialogue.Barkeep.line:10005600=Nothing major or anything...
-staxel.village.dialogue.Barkeep.line:10005700=Just hand that over to ^c:1486b0;{0-shop_name}^c:pop; at the ^c:1486b0;general store^c:pop; and he'll know what I need.
-staxel.village.dialogue.Barkeep.line:10005800=It's an order I've been waiting on for just under a week.
-staxel.village.dialogue.Barkeep.line:10005900=As you can probably see, I've just been too busy to leave the place unattended...
-staxel.village.dialogue.Barkeep.line:10006000=Still don't have my order eh?
-staxel.village.dialogue.Barkeep.line:10006100=^c:1486b0;{0-shop_name}^c:pop; has been holding on to it for me for almost a week.
-staxel.village.dialogue.Barkeep.line:10006200=Go fetch it for me as soon as you can!
-staxel.village.dialogue.Barkeep.line:10006300=Ah! This overpowering aroma!
-staxel.village.dialogue.Barkeep.line:10006400=You have my parcel!
-staxel.village.dialogue.Barkeep.line:10006500=I can't express just how much I've been looking forward to this!
-staxel.village.dialogue.Barkeep.line:10006600=The entrancing fragrance... the incomparable flavours...
-staxel.village.dialogue.Barkeep.line:10006700=Hm? You want to know what's in the package?
-staxel.village.dialogue.Barkeep.line:10006800=It's a special type of fermented fish!
-staxel.village.dialogue.Barkeep.line:10006900=There's only a few islands out there that produce it so it's pretty hard to come by!
-staxel.village.dialogue.Barkeep.line:10007000=I like to tease ^c:1486b0;{0-shop_name}^c:pop; a little by having it sent to the store first...
-staxel.village.dialogue.Barkeep.line:10007100=But enough about that! I imagine you're eager to get back to your pet!
-staxel.village.dialogue.Barkeep.line:10007200=Hm? Oh! I didn't tell you?
-staxel.village.dialogue.Barkeep.line:10007300=I've already sent your pet over to ^c:1486b0;{0-tut_name}^c:pop;!
-staxel.village.dialogue.Barkeep.line:10007400=That there is just a letter with some advice for ^c:1486b0;{0-tut_name}^c:pop;.
-staxel.village.dialogue.Barkeep.line:10007500=Make sure you give it to her for me!
-staxel.village.dialogue.Barkeep.line:10007600=Don't worry about the sap she sent you for - I've already dealt with that.
-staxel.village.dialogue.Barkeep.line:10007700=You should hurry on back to meet your new companion!
-staxel.village.dialogue.Barkeep.line:10007800=Remember - you're welcome here any time!
-staxel.village.dialogue.Barkeep.line:10007900=It usually gets a bit livelier in the evenings so that might be a nice time to stop by!
-staxel.village.dialogue.Barkeep.line:10008000=You probably shouldn't stay out too late though!
-staxel.village.dialogue.Barkeep.line:10008100=It's good to get back to your bed and sleep the night away.
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Good to see you {0-playername}.'
+staxel.village.dialogue.Barkeep.line:10000211=반갑네 ^c:1486b0;{0-playername}^c:pop;.
+//[Reference] 'What can I do for you today?'
+staxel.village.dialogue.Barkeep.line:10000220=오늘은 뭘 하러 왔는가?
+//[Reference] 'Let's chat!'
+staxel.village.dialogue.Barkeep.line:10000250=수다 떨어요!
+//[Reference] 'Any rumours?'
+staxel.village.dialogue.Barkeep.line:10000255=새로운 소식 있나요?
+//[Reference] 'I'm thirsty.'
+staxel.village.dialogue.Barkeep.line:10000260=목 말라요~
+//[Reference] 'Nothing really.'
+staxel.village.dialogue.Barkeep.line:10000265=아무것도 아니에요.
+//TODO Translate [Reference] 'I'd like to buy some of your secret ingredient.'
+staxel.village.dialogue.Barkeep.line:10000266=
+//TODO Translate [Reference] 'I'm hungry.'
+staxel.village.dialogue.Barkeep.line:10000267=
+//[Reference] 'I'm sure you'll fit right in.'
+staxel.village.dialogue.Barkeep.line:10000300=분명 마을에 잘 적응해 나갈꺼라 믿네.
+//[Reference] 'Here, this is on the house!'
+staxel.village.dialogue.Barkeep.line:10000400=여기, 받게나!
+//[Reference] 'Could we have a chat, {0-playername}?'
+staxel.village.dialogue.Barkeep.line:10000410=잠깐, {0-playername}. 우리 대화좀 할까?
+//[Reference] 'Think of it as our welcome to the town.'
+staxel.village.dialogue.Barkeep.line:10000500=우리 마을에 온걸 환영하네. 그런 의미로 주는거야.
+//[Reference] 'I hope to see you around here every now and again.'
+staxel.village.dialogue.Barkeep.line:10000600=얼굴 많이 볼수 있기를 바라네.
+//[Reference] 'By the way... and perhaps this might seem like an odd question but...'
+staxel.village.dialogue.Barkeep.line:10000610=그나저나... 조금 이상한 질문일수 있겠다만...
+//[Reference] 'Is there a particular type of animal you like?'
+staxel.village.dialogue.Barkeep.line:10000620=자네는 어떤 동물을 좋아하나?
+//[Reference] 'Cats are super cute!'
+staxel.village.dialogue.Barkeep.line:10000630=너무 귀여운 고양이요!
+//[Reference] 'Dogs are the coolest!'
+staxel.village.dialogue.Barkeep.line:10000640=엄청 든든한 강아지요!
+//[Reference] 'Oh! How lucky for you!'
+staxel.village.dialogue.Barkeep.line:10000650=오! 운이 좋구만!
+//[Reference] 'A merchant came by the other day whose aunt's friend's sister's son had a litter!'
+staxel.village.dialogue.Barkeep.line:10000660=마침 상인이 이쪽으로 오는 길이라 하네.
+//[Reference] 'If you come back once you're done with ^c:1486b0;{0-tut_name}^c:pop;, I might just have one for you!'
+staxel.village.dialogue.Barkeep.line:10000670=^c:1486b0;{0-tut_name}^c:pop;과 일이 잘 끝나면, 내가 하나 구해보도록 하겠네!
+//[Reference] 'Good luck!'
+staxel.village.dialogue.Barkeep.line:10000680=그럼 잘해보게나!
+//[Reference] 'Hope to see you around!'
+staxel.village.dialogue.Barkeep.line:10002600=그럼 또 보게나!
+//[Reference] 'Hmm... doesn't look like there's much going on right now.'
+staxel.village.dialogue.Barkeep.line:10002700=음... 요새는 별일이 없는것 같군.
+//[Reference] 'I haven't heard any rumours today.'
+staxel.village.dialogue.Barkeep.line:10002800=오늘은 별 일 없었네.
+//[Reference] 'Supposedly ^c:1486b0;{0-quest_giver_0}^c:pop; is having a little trouble.'
+staxel.village.dialogue.Barkeep.line:10002900=^c:1486b0;{0-quest_giver_0}^c:pop;한테 무슨일이 생겼다고 하더군.
+//[Reference] 'Seems things aren't perfect for ^c:1486b0;{0-quest_giver_1}^c:pop; either.'
+staxel.village.dialogue.Barkeep.line:10003000=^c:1486b0;{0-quest_giver_1}^c:pop;도 무슨 큰일이 생겼나봐.
+//[Reference] '^c:1486b0;{0-quest_giver_2}^c:pop; might appreciate some help too.'
+staxel.village.dialogue.Barkeep.line:10003100=^c:1486b0;{0-quest_giver_2}^c:pop; 역시 힘든일이 있다고 해.
+//[Reference] 'What will you have?'
+staxel.village.dialogue.Barkeep.line:10003200=뭐가 마시고 싶은가?
+//[Reference] 'A Mug o' Sap! ({0-currency}{1-sap})'
+staxel.village.dialogue.Barkeep.line:10003300=고로쇠표 꽃물이요! ({0-currency}{1-sap})
+//[Reference] 'A cup of Joe! ({0-currency}{1-coffee}).'
+staxel.village.dialogue.Barkeep.line:10003310=커피요! ({0-currency}{1-coffee})
+//[Reference] 'Never mind.'
+staxel.village.dialogue.Barkeep.line:10003600=아무것도 아니에요.
+//[Reference] 'One ^c:d03e37;Mug o' Sap^c:pop; coming right up!'
+staxel.village.dialogue.Barkeep.line:10003700=^c:d03e37;고로쇠표 꽃물^c:pop; 한병 나감세!
+//[Reference] 'Ah well, another time maybe?'
+staxel.village.dialogue.Barkeep.line:10003800=아 그래? 언제든지 목이 마를때 들러주게.
+//[Reference] 'Hmm... doesn't look like you can afford that.'
+staxel.village.dialogue.Barkeep.line:10003900=음... 돈이 없구만.
+//[Reference] 'Come back when you have some cash!'
+staxel.village.dialogue.Barkeep.line:10004000=걱정말게. 언제든지 돈이 생기면 다시 찾아오게.
+//[Reference] 'Good day {0-playername}!'
+staxel.village.dialogue.Barkeep.line:10005000=어서오게, {0-playername}!
+//[Reference] 'Is that a note for me?'
+staxel.village.dialogue.Barkeep.line:10005100=나에게 온 편지인가?
+//[Reference] 'Hmm... so ^c:1486b0;{0-tut_name}^c:pop; sent you to fetch her some more sap eh?'
+staxel.village.dialogue.Barkeep.line:10005200=음... ^c:1486b0;{0-tut_name}^c:pop;이 목이 마르다고?
+//[Reference] 'She drinks far too much of the stuff...'
+staxel.village.dialogue.Barkeep.line:10005300=그 아이는 너무 마신다니까...
+//[Reference] 'Hmm...'
+staxel.village.dialogue.Barkeep.line:10005400=그러면...
+//[Reference] 'Tell you what, run a little errand for me and I'll see what I can do.'
+staxel.village.dialogue.Barkeep.line:10005500=자네, 단순한 심부름을 맡겨도 되겠나? 그동안 그 문제는 내가 해결해 놓겠네.
+//[Reference] 'Nothing major or anything...'
+staxel.village.dialogue.Barkeep.line:10005600=뭐 대단한 일은 아니네만...
+//[Reference] 'Just hand that over to ^c:1486b0;{0-shop_name}^c:pop; at the ^c:1486b0;general store^c:pop; and he'll know what I need.'
+staxel.village.dialogue.Barkeep.line:10005700=이걸 좀 ^c:1486b0;{0-shop_name}^c:pop; 에게 전해주게. 그 친구는 아마 ^c:1486b0;상점^c:pop;에 있을거야.
+//[Reference] 'It's an order I've been waiting on for just under a week.'
+staxel.village.dialogue.Barkeep.line:10005800=내가 일주일이나 기다린거야...\n후후후.
+//[Reference] 'As you can probably see, I've just been too busy to leave the place unattended...'
+staxel.village.dialogue.Barkeep.line:10005900=그냥 내가 가면 안되냐고? 미안하지만 많이 바쁘네. 그럼 부탁하네.
+//[Reference] 'Still don't have my order eh?'
+staxel.village.dialogue.Barkeep.line:10006000=아직도 내 물건을 받아오지 않은겐가?
+//[Reference] '^c:1486b0;{0-shop_name}^c:pop; has been holding on to it for me for almost a week.'
+staxel.village.dialogue.Barkeep.line:10006100=^c:1486b0;{0-shop_name}^c:pop; 가 기다리고 있을꺼야.
+//[Reference] 'Go fetch it for me as soon as you can!'
+staxel.village.dialogue.Barkeep.line:10006200=부탁이니 되는대로 빨리 가져다주게!
+//[Reference] 'Ah! This overpowering aroma!'
+staxel.village.dialogue.Barkeep.line:10006300=킁킁. 하아. 이 강력한 향기!
+//[Reference] 'You have my parcel!'
+staxel.village.dialogue.Barkeep.line:10006400=내 택배구만!
+//[Reference] 'I can't express just how much I've been looking forward to this!'
+staxel.village.dialogue.Barkeep.line:10006500=내가 이걸 구하려 얼마나 고생을 했는지 아는가!
+//[Reference] 'The entrancing fragrance... the incomparable flavours...'
+staxel.village.dialogue.Barkeep.line:10006600=쓰읍. 아아.. 쓰러질것만 같은 이 향기...
+//[Reference] 'Hm? You want to know what's in the package?'
+staxel.village.dialogue.Barkeep.line:10006700=하아...흠? 이 택배 안에 뭐가 있는지 궁금한가?
+//[Reference] 'It's a special type of fermented fish!'
+staxel.village.dialogue.Barkeep.line:10006800=이건 특별히 삭힌 생선일세!
+//[Reference] 'There's only a few islands out there that produce it so it's pretty hard to come by!'
+staxel.village.dialogue.Barkeep.line:10006900=이런걸 만드는 섬은 흔치가 않아, 그래서 구하는데 힘이 많이 들었지.
+//[Reference] 'I like to tease ^c:1486b0;{0-shop_name}^c:pop; a little by having it sent to the store first...'
+staxel.village.dialogue.Barkeep.line:10007000=또 ^c:1486b0;{0-shop_name}^c:pop; 가 힘들어 하는 모습을 보는게 내 취미이기도 하고...
+//[Reference] 'But enough about that! I imagine you're eager to get back to your pet!'
+staxel.village.dialogue.Barkeep.line:10007100=아무튼 이 정도면 됐어! 자네가 애완동물을 보고 싶어서 안절부절 하는 것만 같구만!
+//[Reference] 'Hm? Oh! I didn't tell you?'
+staxel.village.dialogue.Barkeep.line:10007200=응? 내가 얘기 안해줬나?
+//[Reference] 'I've already sent your pet over to ^c:1486b0;{0-tut_name}^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10007300=지금 ^c:1486b0;{0-tut_name}^c:pop;에게 자네의 애완동물을 전해주고 온 참이네!
+//[Reference] 'That there is just a letter with some advice for ^c:1486b0;{0-tut_name}^c:pop;.'
+staxel.village.dialogue.Barkeep.line:10007400=그리고 이건 ^c:1486b0;{0-tut_name}^c:pop;에게 보내는 편지이고.
+//[Reference] 'Make sure you give it to her for me!'
+staxel.village.dialogue.Barkeep.line:10007500=그 아이에게 꼭 이걸 전해주게!
+//[Reference] 'Don't worry about the sap she sent you for - I've already dealt with that.'
+staxel.village.dialogue.Barkeep.line:10007600=그 꽃물에 대해선 별로 신경 안써도 되네. 이미 처리했으니까.
+//[Reference] 'You should hurry on back to meet your new companion!'
+staxel.village.dialogue.Barkeep.line:10007700=어서 빨리 가보게. 자네의 애완동물이 기다리고 있을꺼야!
+//[Reference] 'Remember - you're welcome here any time!'
+staxel.village.dialogue.Barkeep.line:10007800=그리고 마음 내키는대로 다시 오게. 언제든지 환영해주겠네!
+//[Reference] 'It usually gets a bit livelier in the evenings so that might be a nice time to stop by!'
+staxel.village.dialogue.Barkeep.line:10007900=저녁쯤에는 복작복작 하니까 그때 와도 좋고...
+//[Reference] 'You probably shouldn't stay out too late though!'
+staxel.village.dialogue.Barkeep.line:10008000=물론 그렇다고 너무 늦게까지 나와있진 말게!
+//[Reference] 'It's good to get back to your bed and sleep the night away.'
+staxel.village.dialogue.Barkeep.line:10008100=침대에 누워 밤을 지내는것 만큼 좋은게 없으니 말이야.
+//TODO Translate [Reference] 'Mmm, there have been quite a few concerning mutterings recently...'
+staxel.village.dialogue.Barkeep.line:10008200=
+//TODO Translate [Reference] 'It's hard to give them credence, but with so many reports you start to wonder...'
+staxel.village.dialogue.Barkeep.line:10008300=
+//TODO Translate [Reference] 'The rumour goes that some ancient creature has taken up residence in the forest nearby.'
+staxel.village.dialogue.Barkeep.line:10008400=
+//TODO Translate [Reference] 'I'd go check it out myself, but then who would watch this place?'
+staxel.village.dialogue.Barkeep.line:10008500=
+//TODO Translate [Reference] 'Looking for information on ^c:1486b0;Rosemary's^c:pop; childhood, eh?'
+staxel.village.dialogue.Barkeep.line:10008600=
+//TODO Translate [Reference] 'I've heard my fair share of rumours and there definitely was something up with that whole thing.'
+staxel.village.dialogue.Barkeep.line:10008700=
+//TODO Translate [Reference] 'Don't think even lonely rabbits usually die quite that fast...but I could be wrong there.'
+staxel.village.dialogue.Barkeep.line:10008800=
+//TODO Translate [Reference] 'I'm a tavern keeper, not a farmer!'
+staxel.village.dialogue.Barkeep.line:10008900=
+//TODO Translate [Reference] 'But you know who would know something? ^c:1486b0;Leif^c:pop; would remember.'
+staxel.village.dialogue.Barkeep.line:10009000=
+//TODO Translate [Reference] 'The man's got a memory a mnemonist would envy!'
+staxel.village.dialogue.Barkeep.line:10009100=
+//TODO Translate [Reference] 'Oh, sorry. That's my word of the day!'
+staxel.village.dialogue.Barkeep.line:10009200=
+//TODO Translate [Reference] 'A rabbit...? We don't serve rabbit here...'
+staxel.village.dialogue.Barkeep.line:10009300=
+//TODO Translate [Reference] 'Oh! You meant for ^c:1486b0;Rosemary^c:pop;?'
+staxel.village.dialogue.Barkeep.line:10009400=
+//TODO Translate [Reference] 'Well why didn't you say so sooner?'
+staxel.village.dialogue.Barkeep.line:10009500=
+//TODO Translate [Reference] 'Normally I'd tell you I have a friend whose aunt's son's babysitter's barber had one for sale...'
+staxel.village.dialogue.Barkeep.line:10009600=
+//TODO Translate [Reference] 'But not at the moment, I'm afraid.'
+staxel.village.dialogue.Barkeep.line:10009700=
+//TODO Translate [Reference] 'Although...'
+staxel.village.dialogue.Barkeep.line:10009800=
+//TODO Translate [Reference] 'I did see a rather lonely looking rabbit out in the woodlands...'
+staxel.village.dialogue.Barkeep.line:10009900=
+//TODO Translate [Reference] 'Could be worth going to check it out...'
+staxel.village.dialogue.Barkeep.line:10010000=
+//TODO Translate [Reference] 'Don't forget to take ^c:d03e37;carrots^c:pop; with you! It might be worth giving it a few!'
+staxel.village.dialogue.Barkeep.line:10010100=
+//TODO Translate [Reference] 'Good timing as always, ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10010110=
+//TODO Translate [Reference] 'Now that our ^c:d03e37;sap^c:pop; supply is no longer under threat, I've had time to worry about other things.'
+staxel.village.dialogue.Barkeep.line:10010120=
+//TODO Translate [Reference] 'My brother and I...long ago, we had a dream. A dream that never quite came to fruition...'
+staxel.village.dialogue.Barkeep.line:10010130=
+//TODO Translate [Reference] 'But the other day, I was digging through some old boxes when I came across a certain recipe.'
+staxel.village.dialogue.Barkeep.line:10010140=
+//TODO Translate [Reference] 'Just a few notes he'd jotted down in the margin of a far more important document.'
+staxel.village.dialogue.Barkeep.line:10010150=
+//TODO Translate [Reference] 'It reminds me though...of what we'd planned so many years ago. I think it might be time to try again!'
+staxel.village.dialogue.Barkeep.line:10010160=
+//TODO Translate [Reference] 'There's one small issue though, and it's one I can't deal with while minding the ^c:1486b0;tavern^c:pop;.'
+staxel.village.dialogue.Barkeep.line:10010170=
+//TODO Translate [Reference] 'We're missing some critical equipment!'
+staxel.village.dialogue.Barkeep.line:10010180=
+//TODO Translate [Reference] 'This is a description of the machine we need, right down to the exact specifications.'
+staxel.village.dialogue.Barkeep.line:10010190=
+//TODO Translate [Reference] 'Could you go talk to the ^c:1486b0;Murmurs^c:pop; around the ^c:1486b0;square^c:pop; and see if they can find one?'
+staxel.village.dialogue.Barkeep.line:10010200=
+//TODO Translate [Reference] 'It would be a huge help!'
+staxel.village.dialogue.Barkeep.line:10010210=
+//TODO Translate [Reference] '^c:1486b0;{0-playername}^c:pop;! What brings you around these parts?'
+staxel.village.dialogue.Barkeep.line:10010400=
+//TODO Translate [Reference] 'Truth is, I was just thinking about you. Not in a bad way though, mind!'
+staxel.village.dialogue.Barkeep.line:10010500=
+//TODO Translate [Reference] 'See, I've been thinking that maybe I could consider teaching you my secret ^c:d03e37;sap^c:pop; recipe...'
+staxel.village.dialogue.Barkeep.line:10010600=
+//TODO Translate [Reference] 'But only if you can do something for me in return!'
+staxel.village.dialogue.Barkeep.line:10010700=
+//TODO Translate [Reference] 'See, I'm having some trouble making the stuff myself at the moment...'
+staxel.village.dialogue.Barkeep.line:10010800=
+//TODO Translate [Reference] 'Years ago, we had ^c:d03e37;apiaries^c:pop; all over the island and I had a nice, steady supply of ^c:d03e37;honey^c:pop;.'
+staxel.village.dialogue.Barkeep.line:10010900=
+//TODO Translate [Reference] 'Eventually they disappeared and no one bothered to take over the work, but my stockpile held out.'
+staxel.village.dialogue.Barkeep.line:10011000=
+//TODO Translate [Reference] 'But now it's starting to run low... I'm not sure how much more ^c:d03e37;sap^c:pop; I can make!'
+staxel.village.dialogue.Barkeep.line:10011100=
+//TODO Translate [Reference] 'I'm a bit too old to take up beekeeping again at this point...'
+staxel.village.dialogue.Barkeep.line:10011200=
+//TODO Translate [Reference] 'I'd hate to import the low-quality stuff from other islands too...'
+staxel.village.dialogue.Barkeep.line:10011300=
+//TODO Translate [Reference] 'Bring me some of your own ^c:d03e37;honey^c:pop;, two ^c:d03e37;wildberries^c:pop;, and a three ^c:d03e37;raw wood^c:pop; and we'll talk more!'
+staxel.village.dialogue.Barkeep.line:10011400=
+//TODO Translate [Reference] 'How about you set up your own ^c:d03e37;apiary^c:pop;?'
+staxel.village.dialogue.Barkeep.line:10011500=
+//TODO Translate [Reference] 'You just need to buy the ^c:d03e37;apiary^c:pop; itself and then find a ^c:d03e37;queen bee^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10011510=
+//TODO Translate [Reference] 'Bring me some of your own ^c:d03e37;honey^c:pop;, two ^c:d03e37;wildberries^c:pop;, and a three ^c:d03e37;raw wood^c:pop; and we'll talk more!'
+staxel.village.dialogue.Barkeep.line:10011520=
+//TODO Translate [Reference] 'You need to set up an ^c:d03e37;apiary^c:pop; and get it working.'
+staxel.village.dialogue.Barkeep.line:10011700=
+//TODO Translate [Reference] 'Then bring me some of your own ^c:d03e37;honey^c:pop;, two ^c:d03e37;wildberries^c:pop;, and three ^c:d03e37;raw wood^c:pop; and we'll talk more!'
+staxel.village.dialogue.Barkeep.line:10011800=
+//TODO Translate [Reference] 'I can smell the ^c:d03e37;honey^c:pop; already, ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10011900=
+//TODO Translate [Reference] 'And it's the island's speciality too! Nowhere else has bees quite like ours!'
+staxel.village.dialogue.Barkeep.line:10012000=
+//TODO Translate [Reference] 'Now, let me just deal with these. Look the other way please!'
+staxel.village.dialogue.Barkeep.line:10012100=
+//TODO Translate [Reference] '...'
+staxel.village.dialogue.Barkeep.line:10012200=
+//TODO Translate [Reference] 'Here it is! The ^c:d03e37;secret ingredient^c:pop; for making ^c:d03e37;sap^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10012300=
+//TODO Translate [Reference] 'Now if you just mix up that recipe, you can make your own ^c:d03e37;sap^c:pop; whenever you want!'
+staxel.village.dialogue.Barkeep.line:10012400=
+//TODO Translate [Reference] 'Bear in mind that I'm not going to teach you how to make the ^c:d03e37;secret ingredient^c:pop; though...'
+staxel.village.dialogue.Barkeep.line:10012500=
+//TODO Translate [Reference] 'You'll have to come to me whenever you want to buy that!'
+staxel.village.dialogue.Barkeep.line:10012600=
+//TODO Translate [Reference] 'This is just a little something extra as thanks for keeping me in business!'
+staxel.village.dialogue.Barkeep.line:10012700=
+//TODO Translate [Reference] 'I don't know what ^c:1486b0;Farm Fan^c:pop; would've done if we'd run out of ^c:d03e37;sap^c:pop;...'
+staxel.village.dialogue.Barkeep.line:10012800=
+//TODO Translate [Reference] 'Sure thing!'
+staxel.village.dialogue.Barkeep.line:10012900=
+//TODO Translate [Reference] 'I gave you a description of the machine needed.'
+staxel.village.dialogue.Barkeep.line:10013000=
+//TODO Translate [Reference] 'If you could get one from a ^c:1486b0;Murmur^c:pop; that would be fantastic!'
+staxel.village.dialogue.Barkeep.line:10013100=
+//TODO Translate [Reference] 'Oh! Perfect! This is exactly what I was looking for!'
+staxel.village.dialogue.Barkeep.line:10013200=
+//TODO Translate [Reference] 'These were a lot scarcer back in my day...'
+staxel.village.dialogue.Barkeep.line:10013300=
+//TODO Translate [Reference] 'Now we just need to...'
+staxel.village.dialogue.Barkeep.line:10013400=
+//TODO Translate [Reference] 'Oh...'
+staxel.village.dialogue.Barkeep.line:10013500=
+//TODO Translate [Reference] 'How how foolish of me! What good is a ^c:d03e37;coffee brewer^c:pop; without ^c:d03e37;coffee beans^c:pop;?'
+staxel.village.dialogue.Barkeep.line:10013600=
+//TODO Translate [Reference] '^c:1486b0;{0-playername}^c:pop;, would you mind running back to that  ^c:1486b0;square^c:pop; for me?'
+staxel.village.dialogue.Barkeep.line:10013700=
+//TODO Translate [Reference] 'I'm sure one of the ^c:1486b0;Murmurs^c:pop; sells ^c:d03e37;coffee beans^c:pop;, right?'
+staxel.village.dialogue.Barkeep.line:10013800=
+//TODO Translate [Reference] 'Actually...what if we could convince them to import ^c:d03e37;coffee plant seeds^c:pop; instead?'
+staxel.village.dialogue.Barkeep.line:10013900=
+//TODO Translate [Reference] 'That way we could grow the ^c:d03e37;coffee beans^c:pop; ourselves! Or yourself I suppose!'
+staxel.village.dialogue.Barkeep.line:10014000=
+//TODO Translate [Reference] 'Yes, let's do that instead!'
+staxel.village.dialogue.Barkeep.line:10014100=
+//TODO Translate [Reference] 'Let me know when you have some ^c:d03e37;coffee beans^c:pop; in hand!'
+staxel.village.dialogue.Barkeep.line:10014200=
+//TODO Translate [Reference] 'You're probably going to want to grow them from ^c:d03e37;coffee plant seeds^c:pop;.'
+staxel.village.dialogue.Barkeep.line:10014300=
+//TODO Translate [Reference] 'Talk to the ^c:1486b0;Murmurs^c:pop; first to see if you can get them imported.'
+staxel.village.dialogue.Barkeep.line:10014400=
+//TODO Translate [Reference] 'What's that I can smell, ^c:1486b0;{0-playername}^c:pop;?'
+staxel.village.dialogue.Barkeep.line:10014500=
+//TODO Translate [Reference] 'Could those be the finest of ^c:d03e37;coffee beans^c:pop;?'
+staxel.village.dialogue.Barkeep.line:10014600=
+//TODO Translate [Reference] 'But these are amazing! I've never seen such perfect specimens! You grew them yourself?'
+staxel.village.dialogue.Barkeep.line:10014700=
+//TODO Translate [Reference] '^c:1486b0;{0-playername}^c:pop;, I suspect this is going to be the beginning of a wonderful partnership!'
+staxel.village.dialogue.Barkeep.line:10014800=
+//TODO Translate [Reference] 'Now I can hardly take these free of charge...'
+staxel.village.dialogue.Barkeep.line:10014900=
+//TODO Translate [Reference] 'I hope this will be sufficient to pay for an initial shipment of the ^c:d03e37;coffee beans^c:pop;.'
+staxel.village.dialogue.Barkeep.line:10015000=
+//TODO Translate [Reference] 'Come by any time if you want to try the end product!'
+staxel.village.dialogue.Barkeep.line:10015100=
+//TODO Translate [Reference] 'One hot fresh ^c:d03e37;Coffee^c:pop;, here you go!'
+staxel.village.dialogue.Barkeep.line:10015200=
+//TODO Translate [Reference] '^c:1486b0;{0-playername}^c:pop;, I think it's time I tell you about the plan that never was.'
+staxel.village.dialogue.Barkeep.line:10015300=
+//TODO Translate [Reference] 'See, when I first came to the island, it wasn't to set up a ^c:1486b0;tavern^c:pop;...'
+staxel.village.dialogue.Barkeep.line:10015400=
+//TODO Translate [Reference] 'Our dream was to build a classy establishment, serving trendy meals alongside our ^c:d03e37;sap^c:pop;.'
+staxel.village.dialogue.Barkeep.line:10015500=
+//TODO Translate [Reference] 'But that didn't exactly do well out here...'
+staxel.village.dialogue.Barkeep.line:10015600=
+//TODO Translate [Reference] 'If it wasn't for ^c:1486b0;Farm Fan^c:pop;, even the ^c:1486b0;tavern^c:pop; would probably have gone under by now!'
+staxel.village.dialogue.Barkeep.line:10015700=
+//TODO Translate [Reference] 'But it's time to change that. We're going to expand the ^c:1486b0;tavern^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10015800=
+//TODO Translate [Reference] 'This should be everything you need to get started!'
+staxel.village.dialogue.Barkeep.line:10015900=
+//TODO Translate [Reference] 'I hope I can count on you to help me see this through to the end!'
+staxel.village.dialogue.Barkeep.line:10016000=
+//TODO Translate [Reference] 'It's so beautiful I could almost cry, ^c:1486b0;{0-playername}^c:pop;...'
+staxel.village.dialogue.Barkeep.line:10016100=
+//TODO Translate [Reference] 'Now there's just one little problem we need to sort out and we can open the kitchens!'
+staxel.village.dialogue.Barkeep.line:10016200=
+//TODO Translate [Reference] 'See, I can't manage a kitchen, look after the counter, and deliver orders all by myself...'
+staxel.village.dialogue.Barkeep.line:10016300=
+//TODO Translate [Reference] 'I need you to help my find someone who can work here part-time...'
+staxel.village.dialogue.Barkeep.line:10016400=
+//TODO Translate [Reference] 'Could you run around the villagers and see if any of them is willing?'
+staxel.village.dialogue.Barkeep.line:10016500=
+//TODO Translate [Reference] 'Maybe start with ^c:1486b0;Leif^c:pop; and ^c:1486b0;Farm Fan^c:pop; since they're here most of the time anyway!'
+staxel.village.dialogue.Barkeep.line:10016600=
+//TODO Translate [Reference] 'Just a little more and we'll finally be able to open up our kitchens!'
+staxel.village.dialogue.Barkeep.line:10016700=
+//TODO Translate [Reference] 'All you need to do is expand the ^c:1486b0;tavern^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10016800=
+//TODO Translate [Reference] 'Did you speak with ^c:1486b0;Leif^c:pop; and ^c:1486b0;Farm Fan^c:pop;?'
+staxel.village.dialogue.Barkeep.line:10016900=
+//TODO Translate [Reference] 'One of them might be willing to work here part-time.'
+staxel.village.dialogue.Barkeep.line:10017000=
+//TODO Translate [Reference] 'So a no on both counts, eh?'
+staxel.village.dialogue.Barkeep.line:10017100=
+//TODO Translate [Reference] 'Well that does put us in a bit of a bind...'
+staxel.village.dialogue.Barkeep.line:10017200=
+//TODO Translate [Reference] 'How about you? Would you be interested in doing a bit of part-time work?'
+staxel.village.dialogue.Barkeep.line:10017400=
+//TODO Translate [Reference] 'Not every day, mind. Just when necessary.'
+staxel.village.dialogue.Barkeep.line:10017500=
+//TODO Translate [Reference] 'I'd love to!'
+staxel.village.dialogue.Barkeep.line:10017600=
+//TODO Translate [Reference] 'Maybe some other time.'
+staxel.village.dialogue.Barkeep.line:10017700=
+//TODO Translate [Reference] 'I'm happy to hear you're so enthusiastic about the position!'
+staxel.village.dialogue.Barkeep.line:10017800=
+//TODO Translate [Reference] 'We even already have two orders waiting!'
+staxel.village.dialogue.Barkeep.line:10017900=
+//TODO Translate [Reference] 'This is the first order. Description's on the item itself.'
+staxel.village.dialogue.Barkeep.line:10018000=
+//TODO Translate [Reference] 'You just need to give it to them directly!'
+staxel.village.dialogue.Barkeep.line:10018100=
+//TODO Translate [Reference] 'Ah, I understand. Do let me know if you change your mind.'
+staxel.village.dialogue.Barkeep.line:10018400=
+//TODO Translate [Reference] 'Ah, this again?'
+staxel.village.dialogue.Barkeep.line:10018500=
+//TODO Translate [Reference] 'That ^c:1486b0;Oscar^c:pop; really does get a bit too riled up...'
+staxel.village.dialogue.Barkeep.line:10018600=
+//TODO Translate [Reference] 'But I suppose I won't say no to a free ^c:d03e37;broom^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10018700=
+//TODO Translate [Reference] 'You just need to hand over the order to the person the description best fits.'
+staxel.village.dialogue.Barkeep.line:10018800=
+//TODO Translate [Reference] 'Just give it to them directly!'
+staxel.village.dialogue.Barkeep.line:10018900=
+//TODO Translate [Reference] 'You delivered to the wrong person?'
+staxel.village.dialogue.Barkeep.line:10019000=
+//TODO Translate [Reference] 'You need to pay better attention to the description, ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10019100=
+//TODO Translate [Reference] '^c:1486b0;{0-playername}^c:pop;! What a nice surprise!'
+staxel.village.dialogue.Barkeep.line:10019200=
+//TODO Translate [Reference] 'You delivered to the wrong person?'
+staxel.village.dialogue.Barkeep.line:10019201=
+//TODO Translate [Reference] 'You can assure ^c:1486b0;Max^c:pop; that I'm well stocked on ^c:1486b0;sap^c:pop;.'
+staxel.village.dialogue.Barkeep.line:10019300=
+//TODO Translate [Reference] 'You need to pay better attention to the description, ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10019301=
+//TODO Translate [Reference] 'Always have to keep the reserves up to cope with ^c:1486b0;Farm Fan^c:pop;, you know?'
+staxel.village.dialogue.Barkeep.line:10019400=
+//TODO Translate [Reference] 'You delivered to the wrong person?'
+staxel.village.dialogue.Barkeep.line:10019401=
+//TODO Translate [Reference] 'You need to pay better attention to the description, ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10019500=
+//TODO Translate [Reference] 'You managed to deliver the first order? Good work!'
+staxel.village.dialogue.Barkeep.line:10019600=
+//TODO Translate [Reference] 'We need to get these fulfilled as soon as possible so I won't waste any time.'
+staxel.village.dialogue.Barkeep.line:10019700=
+//TODO Translate [Reference] 'You know the drill now, let's get this one delivered!'
+staxel.village.dialogue.Barkeep.line:10019800=
+//TODO Translate [Reference] 'No problems I take it? Very good! Two down, only one to go.'
+staxel.village.dialogue.Barkeep.line:10019900=
+//TODO Translate [Reference] 'You're doing great so far! There's a nice bonus waiting!'
+staxel.village.dialogue.Barkeep.line:10020000=
+//TODO Translate [Reference] 'Ahh...that's a relief! No more orders left today.'
+staxel.village.dialogue.Barkeep.line:10020100=
+//TODO Translate [Reference] 'You performed fantastically, ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10020200=
+//TODO Translate [Reference] 'Here's your payment for today, plus a little bonus for doing such a great job.'
+staxel.village.dialogue.Barkeep.line:10020300=
+//TODO Translate [Reference] 'I'm not sure how to express my thanks for all you've done...'
+staxel.village.dialogue.Barkeep.line:10020400=
+//TODO Translate [Reference] 'My dream...my brother's dream...it's finally becoming a reality.'
+staxel.village.dialogue.Barkeep.line:10020500=
+//TODO Translate [Reference] 'Together, we'll make this place a classy restaurant yet!'
+staxel.village.dialogue.Barkeep.line:10020600=
+//TODO Translate [Reference] '^c:1486b0;Farm Fan's^c:pop; birthday gift?'
+staxel.village.dialogue.Barkeep.line:10020700=
+//TODO Translate [Reference] 'Oh! I completely forgot.'
+staxel.village.dialogue.Barkeep.line:10020800=
+//TODO Translate [Reference] 'But...I know exactly what she would want from me anyway...'
+staxel.village.dialogue.Barkeep.line:10020900=
+//TODO Translate [Reference] 'I'm not sure what anyone else got her, but I know she's going to like mine best!'
+staxel.village.dialogue.Barkeep.line:10021000=
+//TODO Translate [Reference] 'What'll it be?'
+staxel.village.dialogue.Barkeep.line:10021100=
+//TODO Translate [Reference] 'Baked Potato with Cheese({0-currency}{1-potato}).'
+staxel.village.dialogue.Barkeep.line:10021200=
+//TODO Translate [Reference] 'Mushroom Risotto ({0-currency}{1-risotto})'
+staxel.village.dialogue.Barkeep.line:10021300=
+//TODO Translate [Reference] 'Never mind.'
+staxel.village.dialogue.Barkeep.line:10021400=
+//TODO Translate [Reference] '^c:d03e37;Baked Potato with Cheese^c:pop;, my favourite! Here you go!'
+staxel.village.dialogue.Barkeep.line:10021500=
+//TODO Translate [Reference] 'Ah, one of our specialties.'
+staxel.village.dialogue.Barkeep.line:10021600=

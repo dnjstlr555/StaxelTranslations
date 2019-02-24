@@ -1,0 +1,122 @@
+﻿language.code=ko-KR
+language=한국어
+//[Reference] 'Delivery quest'
+staxel.dailyQuest.DeliveryQuest=배달 심부름
+//TODO Translate [Reference] 'Fetch quest'
+staxel.dailyQuest.FetchQuest=
+//[Reference] 'Lost item quest'
+staxel.dailyQuest.LostItemQuest=아이템 찾기 심부름
+//[Reference] 'Expires on the {0-day} of {1-season}.'
+staxel.journal.dailyQuest.Expiry={1-season}의 {0-day}까지 완료해야해요.
+//[Reference] 'There's nothing here right now.'
+staxel.journal.noQuests=아직 적힌게 없어요.
+//TODO Translate [Reference] 'It's Just Business'
+staxel.mainQuest.Aliza.BestFriends=
+//TODO Translate [Reference] 'Sustainable Building'
+staxel.mainQuest.Aliza.Friends=
+//TODO Translate [Reference] 'Friendly Competition'
+staxel.mainQuest.Aliza.Liked=
+//TODO Translate [Reference] 'Building 101'
+staxel.mainQuest.BuildABarn=
+//TODO Translate [Reference] 'It's a monster!'
+staxel.mainQuest.Cecile.BestFriends=
+//TODO Translate [Reference] 'It's a pinch!'
+staxel.mainQuest.Cecile.Friends=
+//TODO Translate [Reference] 'It's a lab!'
+staxel.mainQuest.Cecile.Liked=
+//TODO Translate [Reference] 'Bring in a Fungi'
+staxel.mainQuest.Cirahna.BringInAFungi=
+//TODO Translate [Reference] 'Forest Witch'
+staxel.mainQuest.Cirahna.ForestWitch=
+//TODO Translate [Reference] 'The Hundred Farmer'
+staxel.mainQuest.Cirahna.TheHundredFarmer=
+//TODO Translate [Reference] 'Maybe sorbet?'
+staxel.mainQuest.CirahnaHelp=
+//TODO Translate [Reference] 'An ancient evil?'
+staxel.mainQuest.CirahnaIntro=
+//TODO Translate [Reference] 'Princess Bride'
+staxel.mainQuest.Emilia.BestFriends=
+//TODO Translate [Reference] 'The Royal Wedding'
+staxel.mainQuest.Emilia.Friends=
+//TODO Translate [Reference] 'The Apprentice'
+staxel.mainQuest.Emilia.Liked=
+//TODO Translate [Reference] 'Building Dream Homes'
+staxel.mainQuest.FarmFan.Acquaintance=
+//TODO Translate [Reference] 'The Master'
+staxel.mainQuest.FarmFan.BestFriends=
+//TODO Translate [Reference] 'Surprise!'
+staxel.mainQuest.FarmFan.Friends=
+//TODO Translate [Reference] 'It's not junk!'
+staxel.mainQuest.FarmFan.Liked=
+//TODO Translate [Reference] 'Let them eat fish'
+staxel.mainQuest.FishingSpot=
+//TODO Translate [Reference] 'The Producer'
+staxel.mainQuest.Jamie.Acquaintance=
+//TODO Translate [Reference] 'The Rival'
+staxel.mainQuest.Jamie.BestFriends=
+//TODO Translate [Reference] 'The Arena'
+staxel.mainQuest.Jamie.Friends=
+//TODO Translate [Reference] 'The Trainer'
+staxel.mainQuest.Jamie.Liked=
+//[Reference] 'It's Called Art'
+staxel.mainQuest.Max.BestFriend=이걸 예술이라 한단다
+//TODO Translate [Reference] 'Bountiful Harvest'
+staxel.mainQuest.Max.Friend=
+//TODO Translate [Reference] 'Funding Round'
+staxel.mainQuest.Max.Liked=
+//TODO Translate [Reference] 'Fixing up the barn'
+staxel.mainQuest.MaxBarn=
+//TODO Translate [Reference] 'Mush to Meet You [WIP]'
+staxel.mainQuest.Morel.Acquantance=
+//TODO Translate [Reference] 'Otherworldly Mushrooms [WIP]'
+staxel.mainQuest.Morel.BestFriend=
+//TODO Translate [Reference] 'Mushroom Panic [WIP]'
+staxel.mainQuest.Morel.Friend=
+//TODO Translate [Reference] 'Dawn at the museum'
+staxel.mainQuest.MuseumConstruction=
+//[Reference] 'All Cleaned Up'
+staxel.mainQuest.Oscar.AllCleanedUp=대청소
+//[Reference] 'Fight The Power'
+staxel.mainQuest.Oscar.FightThePower=맞서 싸우자
+//[Reference] 'Junk Artist'
+staxel.mainQuest.Oscar.JunkArtist=쓰레기 화가
+//[Reference] 'Junk Queen'
+staxel.mainQuest.Oscar.JunkQueen=쓰레기 요정
+//TODO Translate [Reference] 'Sweet dreams'
+staxel.mainQuest.Patisserie=
+//TODO Translate [Reference] 'Hooked'
+staxel.mainQuest.Riah.Acquaintance=
+//TODO Translate [Reference] 'The Call of M'yah'
+staxel.mainQuest.Riah.BestFriend=
+//TODO Translate [Reference] 'Lost'
+staxel.mainQuest.Riah.Friend=
+//TODO Translate [Reference] 'Three Green Bottles'
+staxel.mainQuest.Riah.Liked=
+//TODO Translate [Reference] 'Pet Store'
+staxel.mainQuest.Rosemary.Acquaintance=
+//TODO Translate [Reference] 'Pet Problems'
+staxel.mainQuest.Rosemary.Friend=
+//TODO Translate [Reference] 'Pet Rescue'
+staxel.mainQuest.Rosemary.Liked=
+//TODO Translate [Reference] 'Rowan's parcel'
+staxel.mainQuest.RowansParcel=
+//[Reference] 'Starting out'
+staxel.mainQuest.Tutorial=시작하기
+//[Reference] 'Rainbow Butterfly'
+staxel.mainQuest.Vorlen.BestFriend=무지개색 나비
+//TODO Translate [Reference] 'Lepidopterist'
+staxel.mainQuest.Vorlen.Friend=
+//TODO Translate [Reference] 'Collector'
+staxel.mainQuest.Vorlen.Liked=
+//TODO Translate [Reference] 'Professor Cecile'
+staxel.totem.CecileHome.quest=
+//TODO Translate [Reference] 'A sweeter village'
+staxel.totem.EmiliaHome.quest=
+//TODO Translate [Reference] 'A new challenger'
+staxel.totem.ErisHome.quest=
+//TODO Translate [Reference] 'Expanding the collection'
+staxel.totem.JamieHome.quest=
+//TODO Translate [Reference] 'Spring cleaning'
+staxel.totem.OscarHome.quest=
+//TODO Translate [Reference] 'By any other name'
+staxel.totem.RosemaryHome.quest=
